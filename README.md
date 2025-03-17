@@ -5,7 +5,7 @@ ___
 
 ## Repository Mission Statement 
 
-Quantum experiments implemented in [Richerme Lab](https://iontrap.physics.indiana.edu/) require control systems that harmonizes a wide variety of laboratory instrumentation with suffecient accuracy and reliability. There is a software 
+Quantum experiments implemented in [Richerme Lab](https://iontrap.physics.indiana.edu/) require a control system harmonizing a wide variety of laboratory instrumentation with suffecient accuracy and reliability. There is a software 
 and hardware side to our control system that work in tandem with eachother, together they form what we commonly refer to as "ARTIQ". ARTIQ started and remains an open source research effort, founded within the Ion Storage Group at NIST. ARTIQ in very general 
 terms is a high-level open-source Python module for real-time control of experimental hardware. 
 
