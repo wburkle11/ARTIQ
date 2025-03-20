@@ -20,6 +20,10 @@ What I aim to do with this GitHub repository is to simply store and keep track o
 ___
 
 ## Repository Directory
+
+**DRTIO** - Distributed Real Time In/Out
+
+This repository is for storing relevant code and information related to setting up DRTIO. Using DRTIO, we can essentially daisy-chain two Kasli crates that can communicate in parallel with eachother from one main artiq_master. 
 ___
 
 ## Link Library
